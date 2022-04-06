@@ -2,7 +2,7 @@
 - 👀 I’m interested in using technology to build cool things!
 - 🌱 I’m currently learning PostgreSQL and data structure.
 - 💞️ I’m looking to collaborate on challenging and exciting projects.
-- 📫 How to reach me patricia.moreira.moraes@gmail.com
+- 📫 Reach me at my email: patricia.moreira.moraes@gmail.com
 
 <!---
 Patsematary/Patsematary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
