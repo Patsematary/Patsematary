@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patricia</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Radio Monitoring by Play MPE**
+- 🔭 I’m currently working on **MTR - Music. Tracking. Radar. by Play MPE**
 
 - 🌱 I’m currently learning **react-spring**
 
